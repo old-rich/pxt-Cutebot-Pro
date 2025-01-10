@@ -39,7 +39,7 @@
   "CutebotPro.readSpeed|block": "načti rychlost %CutebotProMotors1 kola %CutebotProSpeedUnits",
   "CutebotPro.extendServoControl|block": "nastav %ServoType servo %CutebotProServoIndex na úhel %angle °",
   "CutebotPro.continuousServoControl|block": "nastav rychlost kontinuálního serva %CutebotProServoIndex na %speed\\%.",
-  "CutebotPro.extendMotorControl|block": "nastav otáčeky přídavného motoru %speed\\%",
+  "CutebotPro.extendMotorControl|block": "nastav otáčky přídavného motoru %speed\\%",
   "CutebotPro.extendMotorStop|block": "zastav přídavný motor",
   "CutebotPro.clearWheelTurn|block": "vynuluj úhel natočení %CutebotProMotors1 kola",
   "Color.OFF|block": "vypni obě RGB LED",
